@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+body{
+    
+	background-color: #444;    
+}
+
+.vertical-offset-100{
+    padding-top:100px;
+}
+
+h3{
+	color: #ff8040;
+}
